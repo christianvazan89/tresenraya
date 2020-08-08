@@ -5,4 +5,4 @@ En el aparece una ventana en la cual aparece un tablero en el que dos jugadores 
 Contiene un marcador para ver quien gana mas partidas y un boton para reiniciar el contador y que se ponga a 0 de nuevo.
 
 /// Informacion ///
-Cambiar la carpeta donde estan la imagen del circulo o la X
+Cambiar la ruta de la carpeta img donde estan las imagenes del circulo o la X
